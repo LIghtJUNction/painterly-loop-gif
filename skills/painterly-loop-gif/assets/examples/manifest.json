@@ -1,0 +1,51 @@
+{
+  "output": "night-garden-loop.gif",
+  "sha256": "65717032bd2381bf79f99c1444bd49b1198afa2bb781a62d9b78417ea03b6bd6",
+  "bytes": 5749384,
+  "size": [
+    384,
+    432
+  ],
+  "frames": 115,
+  "duration_s": 4.79,
+  "fps_source": 24,
+  "loop": 0,
+  "analytic_period_s": 4.791666666666667,
+  "background_sha256": "cd327155c704f34eb5ce2babdb9d9b8f9b3400d0d62407db0b5bffb5fd2748f0",
+  "background_size": [
+    1182,
+    1330
+  ],
+  "motion_proof_size": [
+    64,
+    72
+  ],
+  "decoded_motion_proof_frames": 115,
+  "adjacent_frame_mae_median": 0.3641493055555556,
+  "adjacent_frame_mae_range": [
+    0.3079427083333333,
+    0.4055989583333333
+  ],
+  "loop_seam_mae": 0.3467881944444444,
+  "contact_frames": [
+    0,
+    23,
+    46,
+    68,
+    91,
+    114
+  ],
+  "fireflies": 27,
+  "rain_streaks": 62,
+  "architecture_protection": "geometric displacement exactly zero above54% frame height",
+  "frame_editing_tool": "FFmpeg only",
+  "background": "night-garden-background.png",
+  "mp4": "night-garden-loop.mp4",
+  "mp4_sha256": "200dc5c88acb2690ef85e918bacefe40ce688fa35cd411c724a88732c1d3a3dc",
+  "prompt": "background-prompt.txt",
+  "generation_mode": "built-in image_gen",
+  "reference_post": "https://x.com/JenPanepinto/status/2105866106053271986?s=20",
+  "reference_media_included": false,
+  "example_export": "Existing reviewed export preserved byte-for-byte; not rerendered during packaging.",
+  "render_limitations": "Opaque fixed background, spatial raster displacement and procedural rain/fireflies; no per-object or 3D simulation."
+}

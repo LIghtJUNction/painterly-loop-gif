@@ -1,0 +1,4 @@
+interface:
+  display_name: "Painterly Loop GIF"
+  short_description: "Animate painted scenes with subtle sway, rain and fireflies"
+  default_prompt: "Use $painterly-loop-gif to make an original painterly scene with a gently moving foreground, rain and fireflies, exported as a looping GIF and MP4."
